@@ -1,0 +1,24 @@
+
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 1) My home directory is ~. I used "cd" with no target directory, which changes your directory to the home directory by default.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 2) My UID is 1001. I used "id".
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 3) I belong to the grounp "phung". I used "groups", but it was also visible through "id".
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 4) I cannot create files or cd into it. I can "ls" and "ls -l" to read it.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 5) You can "mv" a directory. You can only "cp" a directory if you use the -r flag to get "cp -r".
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 6) "cpuinfo" and "meminfo" contain information about our cpu and memory, respectively.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 7) I have 4,049,408 kB memory on my server.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 8) My server has 79 processors, with the POWERS architecture name. The processor speed is 4.190 GHz.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 9) The GB size of the uncompressed Amazon customer reviews is 4GB (or 3.239 GB if block size is set to MB).
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 10) Using "grep -ic", I got 857172 results for case-insensitive "great" within the Amazon customer reviews .tsv file.
+bash: syntax error near unexpected token `)'
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ exit
+
+Script done on 2021-08-28 06:20:45+00:00 [COMMAND_EXIT_CODE="2"]
