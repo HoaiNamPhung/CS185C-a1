@@ -1,9 +1,9 @@
 
-]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 1) My home directory is ~. I used "cd" with no target directory, which changes your directory to the home directory by default.
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 1) My home directory is '/home/phung'. I found this by doing "cat /etc/passwd", which shows my user account info in the 6th field of the final line of the file.
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 2) My UID is '1001'. I found this in the same '/etc/passwd' file as before in the 3rd field of the final line.
+
 bash: syntax error near unexpected token `)'
-]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 2) My UID is 1001. I used "id".
-bash: syntax error near unexpected token `)'
-]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 3) I belong to the grounp "phung". I used "groups", but it was also visible through "id".
+]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 3) I belong to the group 'phung'. I used "groups" to find this.
 bash: syntax error near unexpected token `)'
 ]0;phung@f6linux18: ~/CS185C/assignments/a1phung@f6linux18:~/CS185C/assignments/a1$ 4) I cannot create files or cd into it. I can "ls" and "ls -l" to read it.
 bash: syntax error near unexpected token `)'
